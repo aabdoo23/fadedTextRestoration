@@ -1,5 +1,8 @@
 # Faded Text Restoration
 
+## Space Link
+https://huggingface.co/spaces/aabdoo234/fadedTextRestoration
+
 ## Overview
 This project restores faded English text from historical documents using digital image processing and OCR techniques. It applies a series of enhancements and evaluates the results at each stage using **Tesseract OCR**. The extracted texts are then processed by a **Gemini LLM**, which predicts the original text based on all outputs. Finally, the **Levenshtein distance** is used to measure accuracy.
 
