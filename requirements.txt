@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pytesseract
+google.generativeai
+rapidfuzz
+gradio
